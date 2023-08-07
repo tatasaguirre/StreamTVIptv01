@@ -1,9 +1,22 @@
-#EXTM3U
+
+#EXTM3U url-tvg=https://bit.ly/3itZsSm
+#EXTM3U url-tvg=https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml 
+#EXTM3U url-tvg=https://i.mjh.nz/PlutoTV/all.xml.gz
+#EXTM3U url-tvg=https://www.tdtchannels.com/epg/TV.xml.gz
+#EXTM3U url-tvg=https://www.tdtchannels.com/epg/TV.xml
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1v9PIDq" tvg-id="eltrece.com" channel-id="eltrece.com" tvg-name="eltrece"  channel-number="100" tvc-guide-stationid="" tvg-country="LAT" tvg-language="SPANISH" group-title="LATINO TV" status="online",elTrece|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 
 
 
 
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/iSVnzR1.png" tvg-id="24HourFreeMovies.us" group-title="Movies",24 Hour Free Movies (720p) [Not 24/7]
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8
 
 
 
