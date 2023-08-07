@@ -36,6 +36,13 @@ https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 
+TV WORLD: ANIMALES
+
+#EXTINF:-1 tvg-logo=".png" tvg-id="" channel-id="" tvg-name=""  channel-number="900" tvc-guide-stationid="" tvg-country="LAT" tvg-language="" group-title="ANIMAL TV" status="online",W24 Nacht Schiene|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+
+
 
 
 
