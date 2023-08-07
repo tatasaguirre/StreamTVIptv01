@@ -12,6 +12,16 @@ LATAM: SPANISH Movies
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 
+
+USA: LOCAL News TV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/x38vIV5.png" tvg-id="ABCNEWS.us" channel-id="ABCNEWS.usm" tvg-name="ABCNEWS.us"  channel-number="900" tvc-guide-stationid="" tvg-country="US" tvg-language="ENGLISH" group-title="USA NEWS TV" status="online",CINE SONY|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+
+
+
 LATAM: SPANISH TV
 
 
