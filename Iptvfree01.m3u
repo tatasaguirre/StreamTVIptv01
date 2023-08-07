@@ -14,6 +14,13 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 LATAM: SPANISH TV
 
+
+ARGENTINA: TV LOCAL
+
+#EXTINF:-1 tvg-logo="https://imgur.com/aZOsprS.png" tvg-id="elNUEVE.com" channel-id="elnueve.com" tvg-name="elnueve"  channel-number="101" tvc-guide-stationid="" tvg-country="LAT" tvg-language="SPANISH" group-title="LATINO TV" status="online",elNueve|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/1v9PIDq.png" tvg-id="eltrece.com" channel-id="eltrece.com" tvg-name="eltrece"  channel-number="100" tvc-guide-stationid="" tvg-country="LAT" tvg-language="SPANISH" group-title="LATINO TV" status="online",elTrece|HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
