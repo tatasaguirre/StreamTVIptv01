@@ -51,6 +51,14 @@ COSTA RICA: TV LOCAL
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 
+MEXICO: LOCAL TV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/A8xC0HX.png" tvg-id="NRT.MX" channel-id="NRT.MX" tvg-name="NRT.MX"  channel-number="600" tvc-guide-stationid="" tvg-country="LAT" tvg-language="" group-title="LOCAL MX TV" status="online",NRT MEXICO 6 Monclova|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+
+
+
 TV WORLD: ANIMALES
 
 #EXTINF:-1 tvg-logo=".png" tvg-id="" channel-id="" tvg-name=""  channel-number="900" tvc-guide-stationid="" tvg-country="LAT" tvg-language="" group-title="ANIMAL TV" status="online",W24 Nacht Schiene|HD 720p
