@@ -35,6 +35,12 @@ https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
+COSTA RICA: TV LOCAL
+
+#EXTINF:-1 tvg-logo="https://imgur.com/nV2I8ud.png" tvg-id="CANAL8" channel-id="" tvg-name=""  channel-number="900" tvc-guide-stationid="" tvg-country="LAT" tvg-language="" group-title="LATAM TV" status="online",Canal 8|HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
 
 TV WORLD: ANIMALES
 
