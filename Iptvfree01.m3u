@@ -7,17 +7,19 @@
 
 LATAM: SPANISH Movies
 
-#EXTINF:-1 tvg-id="Filmex.mx" tvg-logo="" group-title="Movies",Filmex (Xumo) (1080p) [Geo-blocked]
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/xfleQMJ.png" tvg-id="Filmex.mx" channel-id="Filmex.mx" tvg-name="CineSony.us"  channel-number="501" tvc-guide-stationid="" tvg-country="LAT" tvg-language="SPANISH" group-title="LATINO TV" status="online",FilMex by XUMO|HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/EgDbIoe.png" tvg-id="CineSony.us" channel-id="CineSony.us" tvg-name="CineSony.us"  channel-number="500" tvc-guide-stationid="" tvg-country="LAT" tvg-language="SPANISH" group-title="LATINO TV" status="online",CINE SONY|HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/EgDbIoe.png" tvg-id="CineSony.us" channel-id="CineSony.us" tvg-name="Filmex.mx"  channel-number="502" tvc-guide-stationid="" tvg-country="LAT" tvg-language="SPANISH" group-title="LATINO TV" status="online",CINE SONY|HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/9fAXnpA.png" tvg-id="FilmexClasico.mx" channel-id="FilmexClasico.mx" tvg-name="FilmexClasico.mx"  channel-number="503" tvc-guide-stationid="" tvg-country="LAT" tvg-language="SPANISH" group-title="LATINO TV" status="online",FilMex Clasico|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 
 
 USA: LOCAL News TV
@@ -202,8 +204,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmeraa.in" tvg-logo="https://i.ibb.co/p4BwH0x/images-5.png" group-title="Movies",Filmeraa (720p)
 https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8
 
-#EXTINF:-1 tvg-id="FilmexClasico.mx" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="Movies",Filmex Clásico (1080p) [Geo-blocked]
-https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RedboxUnsolvedMysteries.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Unsolved_mysteries_logo.png" group-title="Movies",FilmRise Forensic Files (XUMO) (432p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmRiseFreeMovies.us" tvg-logo="https://i.imgur.com/X7U7ikq.png" group-title="Movies",FilmRise Free Movies (Redbox) (720p)
