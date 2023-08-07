@@ -5,6 +5,14 @@
 #EXTM3U url-tvg=https://www.tdtchannels.com/epg/TV.xml.gz
 #EXTM3U url-tvg=https://www.tdtchannels.com/epg/TV.xml
 
+LATAM: SPANISH Movies
+
+#EXTINF:-1 tvg-logo="https://imgur.com/EgDbIoe.png" tvg-id="CineSony.us" channel-id="CineSony.usm" tvg-name="CineSony.us"  channel-number="500" tvc-guide-stationid="" tvg-country="LAT" tvg-language="SPANISH" group-title="LATINO TV" status="online",CINE SONY|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
+
+LATAM: SPANISH TV
 
 #EXTINF:-1 tvg-logo="https://imgur.com/1v9PIDq.png" tvg-id="eltrece.com" channel-id="eltrece.com" tvg-name="eltrece"  channel-number="100" tvc-guide-stationid="" tvg-country="LAT" tvg-language="SPANISH" group-title="LATINO TV" status="online",elTrece|HD 720p
 #EXTVLCOPT:network-caching=1000 
@@ -94,8 +102,7 @@ http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_Shif
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cine34.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/512px-Cine34_logo.svg.png" group-title="Movies",Cine 34 [Geo-blocked]
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
-#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CineSureno.us" tvg-logo="https://i.imgur.com/gQimt9G.png" group-title="Movies",Cine Sureño (1080p)
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 #EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://i.imgur.com/Iozv4tT.png" group-title="Movies",CINE.AR (720p) [Not 24/7]
